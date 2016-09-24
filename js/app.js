@@ -1,6 +1,6 @@
 /*Exercise 1.  Fill in the correct id to target the paragraph tag*/
   function fontSize(){
-    document.getElementById(______).style.fontSize = "200%";
+    document.getElementById("biggie").style.fontSize = "200%";
   }
 
  /*Exercise 2. change the font color to red*/
